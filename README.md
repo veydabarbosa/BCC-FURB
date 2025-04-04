@@ -2,11 +2,11 @@
 
 Bem-vindo(a)! Aqui você encontrará uma compilação de todas as informações, exercícios e trabalhos desenvolvidos ao longo do meu curso de Ciência da Computação na FURB.
 
-## ✩ Sobre
+## ✩ Sobre:
 
 Este repositório foi criado para organizar, documentar e compartilhar o conhecimento adquirido durante minha trajetória acadêmica. Aqui você encontrará desde anotações de aula até projetos desenvolvidos ao longo das disciplinas.
 
-## ✩ Estrutura do Repositório
+## ✩ Estrutura do Repositório:
 
 O repositório está estruturado da seguinte maneira:
 
@@ -17,11 +17,11 @@ O repositório está estruturado da seguinte maneira:
   - 📝 **Exercícios:** Lista de exercícios resolvidos, com foco na fixação de conteúdo.
   - 🛠️ **Trabalhos:** Projetos, atividades práticas e trabalhos avaliativos.
 
-## ✩ Como Contribuir
+## ✩ Como Contribuir:
 
 Se você é estudante da área ou simplesmente se interessa por Ciência da Computação, sinta-se livre para contribuir com sugestões, correções ou materiais complementares. Pull requests são muito bem-vindos! :)
 
-## ✩ Contato
+## ✩ Contato:
 
 Caso tenha alguma dúvida ou sugestão, você pode me encontrar por aqui:
 
