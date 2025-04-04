@@ -26,4 +26,4 @@ Se você é estudante da área ou simplesmente se interessa por Ciência da Comp
 Caso tenha alguma dúvida ou sugestão, você pode me encontrar por aqui:
 
 - **Email:** veydaccbarbosa@gmail.com OU veydab@furb.br   
-- **LinkedIn:** [https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)
+- **LinkedIn:** www.linkedin.com/in/veydacbarbosa
