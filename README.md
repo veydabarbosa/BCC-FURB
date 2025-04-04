@@ -1,61 +1,29 @@
-#  BCC - FURB
+# Ciência da Computação - FURB
 
-Repositório destinado à organização dos conteúdos da minha graduação em **Ciência da Computação na FURB**.  
-Aqui serão armazenadas atividades, exercícios, materiais e anotações das disciplinas de cada semestre.
+Bem-vindo(a)! Aqui você encontrará uma compilação de todas as informações, exercícios e trabalhos desenvolvidos ao longo do meu curso de Ciência da Computação na FURB.
 
----
+## ✩ Sobre
 
-## 📚 Primeiro Semestre (2025/1)
+Este repositório foi criado para organizar, documentar e compartilhar o conhecimento adquirido durante minha trajetória acadêmica. Aqui você encontrará desde anotações de aula até projetos desenvolvidos ao longo das disciplinas.
 
-- **Arquitetura de Computadores I** — Prof. Miguel Alexandre Wisintainer  
-- **Diversidade e Sociedade** — Prof. Katilene Willms Labes 
-- **Fundamentos Matemáticos** — Prof. Márcia Regina B. V. Vanti  
-- **Introdução à Computação** — Prof. Mauricio Capobianco Lopes  
-- **Introdução à Programação** — Prof. André Felipe Bürger  
-- **Universidade, Ciência e Pesquisa** — Prof. Adolfo Ramos Lamar
+## ✩ Estrutura do Repositório
 
-### 🗂 O repositório terá a seguinte organização:
+O repositório está estruturado da seguinte maneira:
 
----
+- **Semestres:** Os conteúdos estão divididos por semestre letivo.
+- **Disciplinas:** Dentro de cada semestre, os materiais são organizados por disciplina.
+- Cada disciplina segue o seguinte padrão:
+  - 📘 **Unidades:** Conteúdos teóricos, resumos e pequenos exercícios propostos em aula.
+  - 📝 **Exercícios:** Lista de exercícios resolvidos, com foco na fixação de conteúdo.
+  - 🛠️ **Trabalhos:** Projetos, atividades práticas e trabalhos avaliativos.
 
-Primeiro Semestre/
-├── Arquitetura de Computadores I/
-│   ├── Atividades
-│   ├── Resoluções
-│   └── Material Complementar
-├── Diversidade e Sociedade/
-│   ├── Atividades
-│   └── Leituras
-├── Fundamentos Matemáticos/
-│   ├── Exercícios
-│   └── Resumos
-├── Introdução à Computação/
-│   ├── Trabalhos
-│   └── Anotações
-├── Introdução à Programação/
-│   ├── Códigos
-│   ├── Desafios
-│   └── Materiais de Apoio
-└── Universidade, Ciência e Pesquisa/
-    ├── Leituras
-    └── Textos Produzidos
+## ✩ Como Contribuir
 
----
+Se você é estudante da área ou simplesmente se interessa por Ciência da Computação, sinta-se livre para contribuir com sugestões, correções ou materiais complementares. Pull requests são muito bem-vindos! :)
 
-### 🛠 Tecnologias Utilizadas  
-Durante a graduação e no dia a dia, estou usando e aprendendo:
+## ✩ Contato
 
-- **Java** (disciplinas da graduação)  
-- **Python** (iniciando estudos pessoais)  
-- **Git & GitHub** (versionamento de código e organização)  
-- **VS Code** como editor principal  
-- **Linux** (em algumas disciplinas e projetos)  
+Caso tenha alguma dúvida ou sugestão, você pode me encontrar por aqui:
 
----
-
-## ✨ Objetivos com este repositório  
-
-- Manter um histórico claro e acessível da minha trajetória acadêmica  
-- Praticar organização de projetos no GitHub  
-- Facilitar revisões e estudos futuros  
-- Compartilhar materiais úteis com colegas e comunidade
+- **Email:** veydaccbarbosa@gmail.com OU veydab@furb.br   
+- **LinkedIn:** [https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)
