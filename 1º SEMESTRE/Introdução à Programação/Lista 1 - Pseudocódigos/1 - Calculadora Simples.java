@@ -1,5 +1,5 @@
-##1. Implemente um algoritmo em pseudocódigo que solicite dois números ao usuário e realize as quatro
-operações básicas (adição, subtração, multiplicação e divisão). Certifique-se de tratar o caso de divisão por zero.
+//1. Implemente um algoritmo em pseudocódigo que solicite dois números ao usuário e realize as quatro
+//operações básicas (adição, subtração, multiplicação e divisão). Certifique-se de tratar o caso de divisão por zero.
 
 inicio Calculadora
 variáveis: numeroUm, numeroDois, resultado
