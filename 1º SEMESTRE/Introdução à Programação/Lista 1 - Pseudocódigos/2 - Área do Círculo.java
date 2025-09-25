@@ -1,5 +1,5 @@
-#2. Escreva um algoritmo em pseudocódigo que peça ao usuário o valor do raio de um círculo e implemente
-uma função para calcular e exibir a área desse círculo. Utilize 3,14 como valor de Pi.
+//2. Escreva um algoritmo em pseudocódigo que peça ao usuário o valor do raio de um círculo e implemente
+//uma função para calcular e exibir a área desse círculo. Utilize 3,14 como valor de Pi.
 
 inicio Calculo
 variáveis: valorRaio, PI, area
