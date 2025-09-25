@@ -1,6 +1,6 @@
-#4. Implemente um algoritmo em pseudocódigo que represente uma Conta Bancária e que possua os atributos
-número da conta e saldo. Crie funções para depositar e sacar dinheiro da conta, garantindo que não seja
-possível sacar um valor maior que o saldo disponível.
+//4. Implemente um algoritmo em pseudocódigo que represente uma Conta Bancária e que possua os atributos
+//número da conta e saldo. Crie funções para depositar e sacar dinheiro da conta, garantindo que não seja
+//possível sacar um valor maior que o saldo disponível.
 
 inicio ContaBancaria
 variáveis: numeroConta, saldo
