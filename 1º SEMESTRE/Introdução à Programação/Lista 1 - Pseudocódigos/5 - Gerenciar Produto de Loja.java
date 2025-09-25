@@ -1,6 +1,6 @@
-#5. Crie um algoritmo em pseudocódigo para representar um item de uma loja (Produto). O Produto deve
-possuir os atributos nome, preço e quantidade em estoque. Implemente funções para adicionar e remover
-produtos do estoque e uma função para calcular o valor total do estoque.
+//5. Crie um algoritmo em pseudocódigo para representar um item de uma loja (Produto). O Produto deve
+//possuir os atributos nome, preço e quantidade em estoque. Implemente funções para adicionar e remover
+//produtos do estoque e uma função para calcular o valor total do estoque.
 
 inicio produtoLoja
 variáveis: produto, preco, quantidade
