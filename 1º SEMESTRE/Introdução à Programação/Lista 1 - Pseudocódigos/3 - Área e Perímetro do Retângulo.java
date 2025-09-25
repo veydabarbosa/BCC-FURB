@@ -1,4 +1,4 @@
-#3. Desenvolva um algoritmo em pseudocódigo que peça ao usuário as medidas de comprimento e largura de um retângulo. Implemente funções para calcular e exibir a área e o perímetr do retângulo.
+//3. Desenvolva um algoritmo em pseudocódigo que peça ao usuário as medidas de comprimento e largura de um retângulo. Implemente funções para calcular e exibir a área e o perímetr do retângulo.
 
 
 inicio Valores
