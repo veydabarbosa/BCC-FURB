@@ -13,7 +13,6 @@ O repositório está estruturado da seguinte maneira:
 - **Semestres:** Os conteúdos estão divididos por semestre letivo.
 - **Disciplinas:** Dentro de cada semestre, os materiais são organizados por disciplina.
 - Cada disciplina segue o seguinte padrão:
-  -  **Unidades:** Conteúdos teóricos, resumos e pequenos exercícios propostos em aula.
   -  **Exercícios:** Lista de exercícios resolvidos, com foco na fixação de conteúdo.
   -  **Trabalhos:** Projetos, atividades práticas e trabalhos avaliativos.
 
