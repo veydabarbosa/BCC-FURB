@@ -11,6 +11,5 @@ Este repositório foi criado para organizar, documentar e compartilhar o conheci
 Caso tenha alguma dúvida ou sugestão, você pode me encontrar por aqui:
 
 - **Email:**
-  - veydaccbarbosa@gmail.com
-  - 
+  veydaccbarbosa@gmail.com
 - **LinkedIn:** www.linkedin.com/in/veydacbarbosa
