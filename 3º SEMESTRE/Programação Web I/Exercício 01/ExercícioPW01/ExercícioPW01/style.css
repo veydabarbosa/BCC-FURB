@@ -1,0 +1,59 @@
+header {
+    width: 100%;
+    font-size: larger;
+    background-color: lightblue;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    width: 80px;
+    height: 40px;
+}
+
+form {
+    background-color: rgb(210, 204, 204);
+    border: 1px solid rgb(154, 136, 136);
+    padding: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 8px;
+}
+
+.botao {
+    background-color: green;
+    color: white;
+}
+
+.tabelaP3 li:first-child {
+    font-size: 2em;
+}
+
+.tabelaP3 li:last-child {
+    font-size: 0.8em;
+}
+
+.hover:hover {
+    background-color: blue;
+}
+
+.tabela3 tr:nth-child(odd) {
+    background-color: silver;
+}
+
+.tabela3 {
+    border: 1px solid rgb(163, 148, 148);
+    border-collapse: collapse;
+    padding: 10px;
+}
