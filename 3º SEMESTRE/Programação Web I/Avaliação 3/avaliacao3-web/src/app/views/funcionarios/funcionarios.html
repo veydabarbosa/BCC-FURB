@@ -1,0 +1,19 @@
+<div class="container">
+  <h2>Funcionários</h2>
+
+  <div class="lista-cards">
+    @for (funcionario of funcionarios; track funcionario.id) {
+      <div class="card">
+        <div class="card-foto">
+          <img [src]="funcionario.foto" [alt]="funcionario.nome" />
+        </div>
+        <div class="card-nome">{{ funcionario.nome }}</div>
+        <div class="card-prop1">{{ funcionario.subobjeto.propriedade1 }}</div>
+        <div class="card-prop2">{{ funcionario.subobjeto.propriedade2 }}</div>
+        <div class="card-email">
+          <a [href]="'mailto:' + funcionario.email">{{ funcionario.email }}</a>
+        </div>
+      </div>
+    }
+  </div>
+</div>

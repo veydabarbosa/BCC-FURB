@@ -1,0 +1,99 @@
+.container {
+  background: #FFFDF9;
+  width: 900px;
+  max-width: 90%;
+  min-height: 70vh;
+  margin: 40px auto;
+  padding: 50px 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, .08);
+}
+
+.container h2 {
+  font-family: 'Baloo 2', cursive;
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: center;
+  color: #4A3F35;
+  margin-bottom: 36px;
+}
+
+.container h2::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #FF7043;
+  border-radius: 2px;
+  margin: 10px auto 0;
+}
+
+input {
+  width: 100%;
+  padding: 14px;
+  margin-bottom: 18px;
+  border: 2px solid #e6dfd7;
+  border-radius: 12px;
+  background: #fff;
+  font-size: 16px;
+  box-sizing: border-box;
+  transition: .25s;
+}
+
+input:focus {
+  outline: none;
+  border-color: #FF7043;
+  box-shadow: 0 0 8px rgba(255, 112, 67, .20);
+}
+
+button {
+  background: #FF7043;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 26px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: .25s;
+}
+
+button:hover {
+  background: #ff5d2a;
+  transform: translateY(-2px);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e6dfd7;
+  margin: 35px 0;
+}
+
+.dados {
+  background: #F5F0E8;
+  border-left: 5px solid #FF7043;
+  border-radius: 16px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.dados p {
+  margin: 10px 0;
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+  color: #4A3F35;
+}
+
+.dados strong {
+  color: #4A3F35;
+}
+
+.mensagem {
+  margin-top: 25px;
+  padding: 15px;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}

@@ -1,0 +1,44 @@
+.barra-menu {
+  height: 48px;
+  background: #FF7043;
+  box-shadow: 0 3px 10px rgba(74, 63, 53, .12);
+}
+
+.menu-lista {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 0 24px;
+  gap: 4px;
+  margin: 0;
+}
+
+.menu-item {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.menu-item > a {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 0 18px;
+  color: #FFFDF9;
+  font-family: 'Baloo 2', cursive;
+  font-weight: 600;
+  font-size: .95rem;
+  letter-spacing: .3px;
+  text-decoration: none;
+  transition: background .2s;
+  border-radius: 6px;
+}
+
+.menu-item > a:hover {
+  background: rgba(255, 255, 255, .18);
+}
+
+.menu-item > a.ativo {
+  background: rgba(255, 255, 255, .28);
+}

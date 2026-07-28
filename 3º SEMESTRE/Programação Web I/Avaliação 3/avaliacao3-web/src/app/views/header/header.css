@@ -1,0 +1,39 @@
+.cabecalho {
+  height: 68px;
+  background: #FFFDF9;
+  border-bottom: 2px solid #F5F0E8;
+  display: flex;
+  align-items: center;
+  padding: 0 32px;
+  box-shadow: 0 2px 12px rgba(74, 63, 53, .12);
+}
+
+.logo-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: 'Baloo 2', cursive;
+  font-size: 1.7rem;
+  font-weight: 800;
+  color: #FF7043;
+  letter-spacing: -0.5px;
+  transition: transform .2s;
+}
+
+.logo:hover {
+  transform: scale(1.04);
+}
+
+.logo-icon {
+  font-size: 2rem;
+}
+
+.logo strong {
+  color: #4A3F35;
+}

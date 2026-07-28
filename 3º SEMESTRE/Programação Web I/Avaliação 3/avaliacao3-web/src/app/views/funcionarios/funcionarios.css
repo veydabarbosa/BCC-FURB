@@ -1,0 +1,71 @@
+.container {
+  background: #FFFDF9;
+  min-height: 70vh;
+  padding: 50px 40px;
+}
+
+.container h2 {
+  font-family: 'Baloo 2', cursive;
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: center;
+  color: #4A3F35;
+  margin-bottom: 36px;
+}
+.container h2::after {
+  content: '';
+  display: block;
+  width: 60px; height: 4px;
+  background: #FF7043;
+  border-radius: 2px;
+  margin: 10px auto 0;
+}
+
+.lista-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
+
+.card {
+  width: 250px;
+  text-align: center;
+  background: #F5F0E8;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 2px solid transparent;
+  transition: transform .25s, border-color .25s, box-shadow .25s;
+}
+.card:hover {
+  transform: translateY(-6px);
+  border-color: #FF7043;
+  box-shadow: 0 12px 32px rgba(255, 112, 67, .15);
+}
+
+.card-foto { background-color: black; padding: 10px; }
+.card-foto img { border-radius: 8px; }
+
+.card-nome {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  font-weight: 700;
+  color: #4A3F35;
+  font-size: 1.1rem;
+}
+
+.card-prop1 { font-family: Arial, sans-serif; padding: 10px; color: #6B5A4E; }
+.card-prop2 { font-family: Arial, sans-serif; color: #6B5A4E; padding-bottom: 12px; }
+
+.card-email {
+  font-family: Verdana, sans-serif;
+  background-color: gray;
+  padding: 10px;
+}
+.card-email a {
+  color: #fff;
+  text-decoration: none;
+  font-size: .82rem;
+  word-break: break-all;
+}
+.card-email a:hover { text-decoration: underline; }
