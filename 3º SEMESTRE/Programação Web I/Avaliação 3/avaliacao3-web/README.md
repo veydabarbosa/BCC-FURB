@@ -92,7 +92,6 @@ Este projeto faz parte do repositório acadêmico **BCC-FURB**, utilizado para a
 
 **Nicole Bruch** 
 
-
 **Veyda Cristina Barbosa**
 
 Bacharelado em Ciência da Computação  
